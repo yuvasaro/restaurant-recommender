@@ -1,2 +1,3 @@
-# restaurant-recommender
-A Restaurant Recommender System
+# Restaurant Recommender
+
+Dataset: (https://www.kaggle.com/datasets/uciml/restaurant-data-with-consumer-ratings)
