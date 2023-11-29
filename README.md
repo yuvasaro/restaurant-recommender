@@ -3,11 +3,11 @@
 Dataset: https://www.kaggle.com/datasets/uciml/restaurant-data-with-consumer-ratings
 
 
-## Description
+## Overview
 
-This is a Restaurant Recommender System that uses a neural network trained on user information,
-restaurant information, and user ratings on restaurants to provide restaurant recommendations
-for users.
+This is a Restaurant Recommender System that uses content-based filtering through a neural network 
+trained on user information, restaurant information, and user ratings on restaurants to provide 
+restaurant recommendations for users.
 
 `restaurant_recommender.ipynb` contains the code to train and test the recommender system.
 
