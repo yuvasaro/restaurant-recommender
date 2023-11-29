@@ -29,7 +29,7 @@ RESTAURANT_FEATURES = [
     "smoking_area", 
     "dress_code", 
     "accessibility", 
-    "price", 
+    # "price", 
     "Rambience", 
     # "franchise", 
     "area", 
