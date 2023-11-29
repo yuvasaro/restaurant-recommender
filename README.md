@@ -20,7 +20,7 @@ for users.
 `data` contains CSV files of the Kaggle dataset used in this project.
 
 
-## Setup instructions
+## Setup Instructions
 
 1. Download the repository and `cd` into it:
 
